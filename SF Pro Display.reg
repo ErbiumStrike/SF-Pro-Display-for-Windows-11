@@ -1,0 +1,27 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Segoe UI (TrueType)"="SFProDisplay-Heavy.ttf"
+"Segoe UI Black (TrueType)"="SFProDisplay-Black.ttf"
+"Segoe UI Black Italic (TrueType)"="SFProDisplay-BlackItalic.ttf"
+"Segoe UI Bold (TrueType)"="SFProDisplay-Bold.ttf"
+"Segoe UI Bold Italic (TrueType)"="SFProDisplay-BoldItalic.ttf"
+"Segoe UI Emoji (TrueType)"="seguiemj.ttf"
+"Segoe UI Historic (TrueType)"="seguihis.ttf"
+"Segoe UI Italic (TrueType)"="SFProDisplay-HeavyItalic.ttf"
+"Segoe UI Light (TrueType)"="SFProDisplay-Light.ttf"
+"Segoe UI Light Italic (TrueType)"="SFProDisplay-LightItalic.ttf"
+"Segoe UI Semibold (TrueType)"="SFProDisplay-Semibold.ttf"
+"Segoe UI Semibold Italic (TrueType)"="SFProDisplay-SemiboldItalic.ttf"
+"Segoe UI Semilight (TrueType)"="SFProDisplay-Medium.ttf"
+"Segoe UI Semilight Italic (TrueType)"="SFProDisplay-MediumItalic.ttf"
+"Segoe UI Symbol (TrueType)"="seguisym.ttf"
+"Segoe MDL2 Assets (TrueType)"="segmdl2.ttf"
+"Segoe Print (TrueType)"="segoepr.ttf"
+"Segoe Print Bold (TrueType)"="segoeprb.ttf"
+"Segoe Script (TrueType)"="segoesc.ttf"
+"Segoe Script Bold (TrueType)"="segoescb.ttf"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+
+"Segoe UI"="SF Pro Display"
